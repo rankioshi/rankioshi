@@ -4,10 +4,9 @@
 
 ###
 
-<pre><code>
-Software Engineer always seeking for opportunity
-to make everybody lives easier
-</code></pre>
+
+<pre><code>Software Engineer always seeking for opportunity
+to make everybody lives easier</code></pre>
 ###
 
 <div align="left">
