@@ -11,7 +11,7 @@ to make everybody lives easier
 ###
 
 <div align="left">
-  <img height="70" src="https://cdn.discordapp.com/attachments/1030951296913641492/1369866160119484416/7676d7d0-94e2-41c3-b9d6-59326a3a7d29-ezgif.com-crop.jpg?ex=681d6ac7&is=681c1947&hm=c35c130da0cfeaac7499924a28e07456a4ccd4bbc6588f8be8959c603e681a4e&"  />
+  <img height="70" src="https://cdn.discordapp.com/attachments/1030951296913641492/1369870595696754698/dasda.jpg?ex=681d6ee8&is=681c1d68&hm=e0da1567ad8044b10277c402291cd1ae6e32a8acddd9e59dd4fd9a870815c369&"  />
 </div>
 
 ###
