@@ -6,7 +6,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img height="77" src="https://cdn.discordapp.com/attachments/1030951296913641492/1369866160119484416/7676d7d0-94e2-41c3-b9d6-59326a3a7d29-ezgif.com-crop.jpg?ex=681d6ac7&is=681c1947&hm=c35c130da0cfeaac7499924a28e07456a4ccd4bbc6588f8be8959c603e681a4e&"  />
 </div>
 
@@ -54,6 +54,6 @@
 
 ###
 
-<h3 align="left">Brazillian<br>Performance seeker<br>Used to compete in games<br>Obsessed with 00s japanese art style</h3>
+<h3 align="center">Brazillian<br>Performance seeker<br>Used to compete in games<br>Obsessed with 00s japanese art style</h3>
 
 ###
