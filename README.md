@@ -4,8 +4,9 @@
 
 ###
 
-<h3 align="left">Software Engineer always seeking for opportunity to make everybody lives easier</h3>
-
+```bash
+Software Engineer always seeking for opportunity to make everybody lives easier
+```
 ###
 
 <div align="left">
