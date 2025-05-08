@@ -56,6 +56,8 @@
 
 ###
 
-<h3 align="left">Brazillian<br>Performance seeker<br>Used to compete in games<br>Obsessed with 00s japanese art style</h3>
-
-###
+```bash
+Brazillian  
+Performance seeker  
+Used to compete in games  
+Obsessed with 00s japanese art style
