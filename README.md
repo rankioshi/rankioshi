@@ -5,7 +5,8 @@
 ###
 
 ```bash
-Software Engineer always seeking for opportunity to make everybody lives easier
+Software Engineer always seeking for opportunity
+to make everybody lives easier
 ```
 ###
 
