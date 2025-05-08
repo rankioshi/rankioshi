@@ -58,9 +58,7 @@ to make everybody lives easier</code></pre>
 
 ###
 
-<pre><code>
-Brazillian  
+<pre><code>Brazillian  
 Performance seeker  
 Used to compete in games  
-Obsessed with 00s japanese art style
-</code></pre>
+Obsessed with 00s japanese art style</code></pre>
