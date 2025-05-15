@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="left" height="400" src="https://cdn.discordapp.com/attachments/1229834827721605152/1370074819583803524/alice-ragnarok-online.gif?ex=6826bedb&is=68256d5b&hm=9d3039357db42c53371d0e94f1befea8c8ebd5a0a6c6e63260c7347dc374f9a1&"  />
+<img align="left" height="400" src="https://cdn.discordapp.com/attachments/1030951296913641492/1369863033987403847/aliza-ragnarok-ezgif.com-resize.gif?ex=681d67de&is=681c165e&hm=a8ac2d22327f82368fdcf1c4bcdd937aefec6ded9a40d65218873ca06612d0da&"  />
 
 
 
