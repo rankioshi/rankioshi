@@ -63,7 +63,6 @@ to make everybody lives easier</code></pre>
 </div>
 
 ###
-
 | [ **Brazillian** | **Obsessed with 00s japanese art style** | **Performance seeker** |
 | - | - | - |
 
