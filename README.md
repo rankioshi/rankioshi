@@ -63,6 +63,9 @@ to make everybody lives easier</code></pre>
 </div>
 
 ###
-| [ **Brazillian** | **Obsessed with 00s japanese art style** | **Performance seeker** |
-| - | - | - |
+
+<pre><code>Brazillian  
+Performance seeker  
+Used to compete in games  
+Obsessed with 00s japanese art style</code></pre>
 
