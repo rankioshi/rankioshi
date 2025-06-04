@@ -1,6 +1,6 @@
 <br clear="both">
 
-
+<img align="left" height="400" src="aliza-ragnarok.gif"/>
 
 
 <pre><code>Software Engineer always seeking for opportunity
