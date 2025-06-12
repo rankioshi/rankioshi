@@ -4,7 +4,7 @@
 
 
 <pre><code>Software Engineer always seeking opportunities
-  to make life easier for everyone.</code></pre>
+to make life easier for everyone.</code></pre>
 ###
 
 <div align="left">
