@@ -3,8 +3,7 @@
 <img align="left" height="400" src="aliza-ragnarok.gif"/>
 
 
-<pre><code>Software Engineer always seeking for opportunity
-to make everybody lives easier</code></pre>
+<pre><code>Software Engineer always seeking opportunities to make life easier for everyone.</code></pre>
 ###
 
 <div align="left">
